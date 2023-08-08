@@ -25,7 +25,7 @@ export class AppComponent {
     }
     else
     {
-      this.show = false;
+      this.show = true;
     }
   }
 }
